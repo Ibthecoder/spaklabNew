@@ -1,0 +1,78 @@
+#choose-us-container .choose-us-box-1 {
+    margin-left: -50%;
+    
+  }
+
+  .choose-us-box-1{
+    width: 30rem;
+  }
+
+  .choose-us-img1{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    padding-top: 40px;
+}
+
+
+.child1{
+    height: 15rem;
+    width: 11rem;
+    background: url(/static/image/choose-us-img1.png) no-repeat center / cover;
+    border-radius: 9px;
+
+
+}
+
+.child2{
+    height: 15rem;
+    width: 11rem;
+    background: url(/static/image/choose-us-img2.jpeg) no-repeat center / cover;
+    border-radius: 9px;
+}
+
+.choose-us-img2{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    margin-top: 10px;
+}
+
+
+.child3{
+    height: 15rem;
+    width: 11rem;
+    background: url(/static/image/choose-us-img3.jpeg) no-repeat center / cover;
+    border-radius: 9px;
+}
+
+.child4{
+    height: 15rem;
+    width: 11rem;
+    background: url(/static/image/choose-us-img4.jpeg) no-repeat center / cover;
+    border-radius: 9px;
+}
+
+#choose-us-wrieup {
+    text-align: center; /* Centers the content */
+    padding: 0 1rem; /* Adds padding for smaller screens */
+  }
+
+  #choose-us-wrieup h3 {
+    font-size: 16px; /* Smaller font size for small screens */
+    line-height: 18px;
+  }
+
+  #choose-us-wrieup h2 {
+    font-size: 2rem; /* Reduce heading size */
+    line-height: 2.5rem;
+  }
+
+  #choose-us-wrieup p {
+    font-size: 14px; /* Reduce paragraph font size */
+    line-height: 24px; /* Adjust line spacing */
+    margin-top: 15px;
+  }
+
+
+/* ////////// */
